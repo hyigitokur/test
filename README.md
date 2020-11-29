@@ -16,4 +16,5 @@ $ git reset HEAD <file>
 $ git rm -r <file>
 $ git branch beta
 $ git checkout
+$ git pull && git fetch
 ```
