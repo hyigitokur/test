@@ -1,5 +1,5 @@
 ## Yiğit Okur
-## Open Source HomeWork
+## Open Source Homework
 
 All task done! You can view screenshots of unstage, reset and log commands.
 
